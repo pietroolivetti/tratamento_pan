@@ -70,9 +70,9 @@ Cada efeito físico do sistema de luta ou fuga tem como objetivo nos preparar pa
 
 Efeitos Cardiovasculares:
 
-A atividade no sistema simpático aumenta a frequência cardíaca e a força das batidas cardíacas. Isso melhora o fluxo sanguíneo, fornecendo mais oxigênio aos tecidos e removendo resíduos. Isso é vital para a preparação para a ação (lutar ou fugir), pois acelera o fluxo sanguíneo.
+A atividade no sistema simpático aumenta a frequência cardíaca e a força dos batimentos cardíacas. Isso melhora o fluxo sanguíneo, fornecendo mais oxigênio aos tecidos e removendo resíduos. Isso é vital para a preparação para a ação (lutar ou fugir), pois acelera o fluxo sanguíneo.
 
-O fluxo sanguíneo é redirecionado, afastando-o de onde não é necessário (por meio do estreitamento dos vasos sanguíneos) e direcionando-o para onde é mais necessário (por meio da expansão dos vasos sanguíneos). Por exemplo, o sangue é retirado da pele, dedos e dedos dos pés, para reduzir o risco de lesões. Em vez disso, o sangue vai para os grandes músculos, como as coxas, o coração e os bíceps, que precisam de oxigênio para lutar ou fugir.
+O fluxo sanguíneo é redirecionado, afastando-o de onde não é necessário (por meio do estreitamento dos vasos sanguíneos) e direcionando-o para onde é mais necessário (por meio da expansão dos vasos sanguíneos). Por exemplo, o sangue é desviado da pele, dedos e dedos dos pés, para reduzir o risco de lesões. Em vez disso, o sangue vai para os grandes músculos, como as coxas, o coração e os bíceps, que precisam de oxigênio para lutar ou fugir.
 
 Essas mudanças físicas fazem o coração bater rápido e a pele ficar pálida e fria, principalmente ao redor das mãos e dos pés. Isso é uma reação normal em situações de medo ou ansiedade, indicando que o corpo está se preparando para agir.
 
