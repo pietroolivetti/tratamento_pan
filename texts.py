@@ -117,19 +117,14 @@ Você pode perguntar: "Como os ataques de pânico noturnos podem ser desencadead
 ],
     'Formulário de Situações típicas de agorafobia': ["""Condições
 Aqui estão algumas das condições a serem consideradas que podem influenciar o nível de ansiedade que você experimenta em cada situação de agorafobia. É muito importante incluir as condições que fazem com que você se sinta mais ansioso. Por exemplo, se você sempre se sente mais ansioso quando está sozinho, será essencial incluir situações em sua hierarquia nas quais você esteja sozinho.
-
 Distância de Casa
 Por exemplo, dirigir na autoestrada pode ser dividido em várias tarefas diferentes, dependendo da distância de sua casa (10 minutos de casa versus 1 hora de casa). Essas podem ser diferentes etapas em sua hierarquia, e será importante incluir distâncias maiores de casa em sua hierarquia se você normalmente fica mais ansioso quanto mais longe estiver de casa.
-
 Proximidade de uma Saída ou Facilidade de Fuga
 Ir ao cinema pode ser mais ou menos provocador de ansiedade, dependendo de quão longe no meio da fileira você está sentado durante o filme. Sentar no meio da fileira pode ser muito mais provocador de ansiedade do que sentar na fileira do corredor, se for importante para você ser capaz de sair de onde estiver. Da mesma forma, dirigir na autoestrada pode ser mais fácil ou mais difícil dependendo das distâncias entre as saídas e entradas. Se for o caso, certifique-se de eventualmente enfrentar situações em que as saídas ou a fuga sejam muito difíceis, mesmo que você comece com situações das quais seja fácil sair.
-
 Hora do Dia
 Fazer compras no supermercado pode ser mais fácil ou mais difícil, dependendo se você faz as compras de manhã, à tarde ou à noite. Por exemplo, às vezes as pessoas ficam mais ansiosas à tarde ou à noite porque se sentem mais cansadas e menos capazes de lidar com o pânico. Se isso fizer diferença para você, adicione itens à sua hierarquia que incluam os horários mais difíceis do dia.
-
 Número de Pessoas
 Se a situação estiver lotada ou não pode influenciar o nível de ansiedade. Portanto, fazer compras durante o horário de pico ou dirigir durante o horário de rush pode ser diferente de fazer compras ou dirigir quando as condições são muito menos lotadas. Se isso for importante para você, inclua itens em sua hierarquia que envolvam horários lotados.
-
 Acompanhado ou Sozinho
 Claro, a presença de amigos ou familiares muitas vezes faz uma grande diferença. Contar com certas outras pessoas é uma forma de confiar em um sinal de segurança (como descrito no capítulo 1). Se você se sente menos ansioso quando está com certas pessoas, pode começar a enfrentar seu medo de situações de agorafobia com a ajuda delas, mas será essencial enfrentar as mesmas situações sem essas pessoas eventualmente. Portanto, sua hierarquia deve incluir enfrentar situações sem a ajuda de outros, se ficar sozinho o torna mais ansioso."""], 
 ['Formulário de Situações típicas de agorafobia', 'https://forms.gle/2kiR5Yn4Qdo4wjRy9']
