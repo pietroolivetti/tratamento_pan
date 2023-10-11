@@ -125,6 +125,6 @@ Fazer compras no supermercado pode ser mais fácil ou mais difícil, dependendo 
 Número de Pessoas
 Se a situação estiver lotada ou não pode influenciar o nível de ansiedade. Portanto, fazer compras durante o horário de pico ou dirigir durante o horário de rush pode ser diferente de fazer compras ou dirigir quando as condições são muito menos lotadas. Se isso for importante para você, inclua itens em sua hierarquia que envolvam horários lotados.
 Acompanhado ou Sozinho
-Claro, a presença de amigos ou familiares muitas vezes faz uma grande diferença. Contar com certas outras pessoas é uma forma de confiar em um sinal de segurança (como descrito no capítulo 1). Se você se sente menos ansioso quando está com certas pessoas, pode começar a enfrentar seu medo de situações de agorafobia com a ajuda delas, mas será essencial enfrentar as mesmas situações sem essas pessoas eventualmente. Portanto, sua hierarquia deve incluir enfrentar situações sem a ajuda de outros, se ficar sozinho o torna mais ansioso."""], 
-['Formulário de Situações típicas de agorafobia', 'https://forms.gle/2kiR5Yn4Qdo4wjRy9'],
+Claro, a presença de amigos ou familiares muitas vezes faz uma grande diferença. Contar com certas outras pessoas é uma forma de confiar em um sinal de segurança (como descrito no capítulo 1). Se você se sente menos ansioso quando está com certas pessoas, pode começar a enfrentar seu medo de situações de agorafobia com a ajuda delas, mas será essencial enfrentar as mesmas situações sem essas pessoas eventualmente. Portanto, sua hierarquia deve incluir enfrentar situações sem a ajuda de outros, se ficar sozinho o torna mais ansioso.""", 
+['Formulário de Situações típicas de agorafobia', 'https://forms.gle/2kiR5Yn4Qdo4wjRy9']],
 }
