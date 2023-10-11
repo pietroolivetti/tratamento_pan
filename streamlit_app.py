@@ -13,7 +13,7 @@ with st.sidebar:
     sel = st.selectbox('Opções de texto:', texts_choice)
     st.divider()
     if len(texts_choice[sel]) > 1:
-        st.subheader('Documentos para download')
+        st.subheader('Formulários')
         links = [l for l in texts_choice[sel][1:]]
         for d in range(len(links)):
             st.markdown(f"[{links[d][0]}]({links[d][1]})")
