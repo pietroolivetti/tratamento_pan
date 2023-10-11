@@ -127,5 +127,5 @@ Se a situação estiver lotada ou não pode influenciar o nível de ansiedade. P
 
 Acompanhado ou Sozinho
 Claro, a presença de amigos ou familiares muitas vezes faz uma grande diferença. Contar com certas outras pessoas é uma forma de confiar em um sinal de segurança (como descrito no capítulo 1). Se você se sente menos ansioso quando está com certas pessoas, pode começar a enfrentar seu medo de situações de agorafobia com a ajuda delas, mas será essencial enfrentar as mesmas situações sem essas pessoas eventualmente. Portanto, sua hierarquia deve incluir enfrentar situações sem a ajuda de outros, se ficar sozinho o torna mais ansioso.
-"""], ['Formulário de Situações típicas de agorafobia', 'https://forms.gle/2kiR5Yn4Qdo4wjRy9'] ]
+"""], ['Formulário de Situações típicas de agorafobia', 'https://forms.gle/2kiR5Yn4Qdo4wjRy9']],
 }
