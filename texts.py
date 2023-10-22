@@ -167,6 +167,7 @@ O exercício envolve um componente de respiração, no qual você aprende a desa
 O seguinte exercício deve ser praticado pelo menos duas vezes ao dia, por pelo menos 10 minutos cada vez. No início, o exercício pode ser difícil, mas ficará mais fácil quanto mais você o praticar.
 
 Passo 1
+
 O primeiro passo é se concentrar em fazer respirações até a parte inferior do seu estômago (ou, mais precisamente, até os músculos do diafragma).
 
 ■ Deve haver uma expansão (aumento) do estômago toda vez que você inspirar. O estômago é puxado de volta toda vez que você expirar.
@@ -195,6 +196,7 @@ Essa nova forma de respiração pode parecer estranha no início e causar sensa�
 
 Por enquanto, não utilize esse novo tipo de respiração calma nos momentos de ansiedade, pois tentar usar uma estratégia que está apenas parcialmente desenvolvida pode ser mais frustrante e gerar mais ansiedade do que não tentar usá-la de forma alguma. Seria como ensinar uma técnica de lidar com emergências subaquáticas a mergulhadores uma única vez e depois esperar que eles usem a habilidade com sucesso em uma emergência real debaixo d'água. Em vez disso, os mergulhadores devem praticar o procedimento de emergência em terra repetidamente antes de usá-lo debaixo d'água. Portanto, por enquanto, os exercícios de respiração devem ser feitos apenas em um ambiente tranquilo e confortável. Uma vez que você tenha adquirido habilidade no exercício básico de respiração calma, então aplicaremos isso como uma habilidade de enfrentamento para a ansiedade.
 
-Após cada prática, registre seus níveis de concentração na respiração e na contagem, bem como o sucesso com o qual você consegue usar o músculo do diafragma, utilizando o formulário específico."""],
+Após cada prática, registre seus níveis de concentração na respiração e na contagem, bem como o sucesso com o qual você consegue usar o músculo do diafragma, utilizando o formulário específico.""",
+['Formulário 6.1: Seu Registro de Habilidades de Respiração', 'https://docs.google.com/document/d/1Of-VP9f6qSVZmpyot9mbyzowbBEmLPJvi7iweFKMDZg/edit?usp=share_link']],
 
 }
