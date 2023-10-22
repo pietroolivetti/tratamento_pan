@@ -153,6 +153,48 @@ Uma das mudanças mais importantes produzidas pela hiperventilação é a constr
 
 No entanto, a fisiologia da hiperventilação produz sintomas definitos e, às vezes, intensos. Primeiro, os sintomas incluem tontura, sensação de cabeça leve, confusão e sentimentos de irrealidade. Segundo, os sintomas incluem aumento da frequência cardíaca (para bombear mais sangue pelo corpo); dormência e formigamento nas extremidades; mãos frias e úmidas; e, às vezes, rigidez dos músculos. Além disso, a hiperventilação pode causar uma sensação de falta de ar, que às vezes se estende a uma sensação de sufocação, de modo que realmente parece que não há ar suficiente. Na realidade, há bastante ar. Você pode ter notado muitos desses sintomas se já fez algum exercício de hiperventilação antes.
 
-A hiperventilação também causa outros efeitos. Primeiro, o ato de hiperventilar é um trabalho físico árduo. Isso pode fazer você se sentir quente, corado e suado, e após períodos prolongados, frequentemente causará cansaço e exaustão. Além disso, as pessoas que hiperventilam frequentemente respiram mais pelo peito do que pelo diafragma (o músculo sob as costelas). Quando os músculos do peito são usados predominantemente, eles ficam cansados e sensíveis devido ao uso excessivo. Isso às vezes causa aperto no peito ou até dores no peito graves. Finalmente, muitas pessoas que hiperventilam têm o hábito de suspirar ou bocejar. Infelizmente, esses hábitos contribuem para o problema, porque suspirar e bocejar causam a eliminação rápida de grandes quantidades de dióxido de carbono do sistema, reduzindo a quantidade proporcional de dióxido de carbono no sangue. """],
+A hiperventilação também causa outros efeitos. Primeiro, o ato de hiperventilar é um trabalho físico árduo. Isso pode fazer você se sentir quente, corado e suado, e após períodos prolongados, frequentemente causará cansaço e exaustão. Além disso, as pessoas que hiperventilam frequentemente respiram mais pelo peito do que pelo diafragma (o músculo sob as costelas). Quando os músculos do peito são usados predominantemente, eles ficam cansados e sensíveis devido ao uso excessivo. Isso às vezes causa aperto no peito ou até dores no peito graves. Finalmente, muitas pessoas que hiperventilam têm o hábito de suspirar ou bocejar. Infelizmente, esses hábitos contribuem para o problema, porque suspirar e bocejar causam a eliminação rápida de grandes quantidades de dióxido de carbono do sistema, reduzindo a quantidade proporcional de dióxido de carbono no sangue. 
+A hiperventilação nem sempre é óbvia. Por exemplo, a respiração excessiva leve pode ocorrer ao longo de longos períodos de tempo sem sinais óbvios de hiperventilação. Isso ocorre porque o corpo trabalha para equilibrar a diminuição do dióxido de carbono, a fim de manter um nível normal de acidez sanguínea. Assim, os sintomas não estão sempre presentes. No entanto, como os níveis de dióxido de carbono permanecem baixos, o corpo perde sua capacidade de lidar com as mudanças na respiração. Consequentemente, mesmo uma leve alteração na respiração (por exemplo, um bocejo ou subir um lance de escadas) pode ser suficiente para causar repentinamente o aparecimento dos sintomas. Isso pode explicar a natureza súbita de muitos ataques de pânico - uma pequena mudança na respiração em alguém que tem uma tendência geral a hiperventilar, mesmo que apenas levemente, causa hiperventilação aguda.
+
+Provavelmente, o ponto mais importante a ser destacado sobre a hiperventilação é que ela não é perigosa."""],
+
+'Respiração diafragmática': ["""Com este exercício você aprenderá a diferenciar a respiração diafragmática da respiração "profunda". As pessoas frequentemente dizem "apenas respire fundo" como uma forma de lidar com ataques de pânico, e isso normalmente significa tomar uma grande respiração (uma inalação enorme de ar). No entanto, tomar uma grande respiração é contraproducente. Quando falamos de respiração diafragmática, estamos nos referindo a redirecionar o foco para longe do peito em direção ao abdômen, mantendo ao mesmo tempo uma respiração de tamanho normal.
+
+O objetivo deste exercício é aprender um método de regular sua respiração que o ajudará a lidar diretamente com os sintomas físicos e as situações que atualmente o deixam ansioso. Essa habilidade de respiração não é projetada para controlar ou prevenir sentimentos de medo e ansiedade; em vez disso, destina-se a ajudá-lo a enfrentar os sentimentos de medo e ansiedade e as situações em que eles surgem.
+
+O exercício envolve um componente de respiração, no qual você aprende a desacelerar sua respiração e a usar mais o músculo do diafragma do que os músculos do peito, e um componente de meditação. Meditação significa focar sua atenção no exercício de respiração. Como todas as habilidades, aprender a meditar requer prática.
+
+O seguinte exercício deve ser praticado pelo menos duas vezes ao dia, por pelo menos 10 minutos cada vez. No início, o exercício pode ser difícil, mas ficará mais fácil quanto mais você o praticar.
+
+Passo 1
+O primeiro passo é se concentrar em fazer respirações até a parte inferior do seu estômago (ou, mais precisamente, até os músculos do diafragma).
+
+■ Deve haver uma expansão (aumento) do estômago toda vez que você inspirar. O estômago é puxado de volta toda vez que você expirar.
+
+■ Se você tiver dificuldade em levar o ar até o seu estômago, coloque uma mão no peito e a outra no estômago, com o dedo mínimo cerca de 2,5 centímetros acima do umbigo. Conforme você inspira e expira, apenas a mão no estômago deve se mover. Se você estiver fazendo o exercício corretamente, não deve haver muita movimentação da mão no peito. Se você normalmente respira pelo peito, isso pode parecer artificial e causar sensações de falta de ar. Isso é uma resposta natural. Apenas lembre-se de que você está recebendo oxigênio suficiente e que as sensações de falta de ar diminuirão à medida que você praticar.
+
+Passo 2
+
+O segundo passo é respirar quantidades normais de ar. Pânico e ansiedade frequentemente produzem a sensação de não ter ar suficiente e o desejo de tomar grandes respirações. No entanto, tomar uma grande respiração levará a uma queda desproporcional na quantidade de dióxido de carbono no sangue, levando a mais hiperventilação. Portanto, não faça grandes respirações; faça uma respiração de tamanho médio ou até mais superficial.
+
+■ Nesta fase, respire na sua taxa normal - não tente diminuir a respiração. Vamos trabalhar na redução da respiração mais tarde.
+
+■ Além disso, mantenha sua respiração suave. Não respire fundo de uma vez e solte todo o ar de uma só vez. Ao expirar, pense no ar como escorrendo e escapando pelo nariz ou pela boca, em vez de sair subitamente. Não importa se você respira pelo nariz ou pela boca, desde que respire suavemente.
+
+Passo 3
+
+O terceiro passo envolve a meditação. Você contará sempre que inspirar e pensará na palavra "relaxar" ao expirar.
+
+■ Ou seja, quando você inspirar, pense "um" para si mesmo; e, ao expirar, pense na palavra "relaxar". Pense "dois" na sua próxima inspiração e pense "relaxar" na expiração. Pense "três" na próxima inspiração e pense "relaxar" na expiração. Continue fazendo isso até contar cerca de "10" e depois volte ao "um".
+
+■ Concentre-se apenas na sua respiração e nas palavras. Isso pode ser muito difícil, e você pode nunca conseguir fazer isso perfeitamente. Você pode não passar do primeiro número sem que outros pensamentos entrem em sua mente. Isso é natural. Quando isso acontecer, não fique com raiva ou desista. Apenas permita que os pensamentos passem pela sua mente e, em seguida, traga sua atenção de volta para a respiração, os números e as palavras.
+
+Pratique duas vezes ao dia (ou mais, se desejar), por cerca de 10 minutos cada vez, em situações relaxantes, como em um local tranquilo em casa onde você não será perturbado.
+
+Essa nova forma de respiração pode parecer estranha no início e causar sensações de falta de ar. Isso é natural. Apenas lembre-se de que você está recebendo oxigênio suficiente e que ficará mais fácil quanto mais você praticar.
+
+Por enquanto, não utilize esse novo tipo de respiração calma nos momentos de ansiedade, pois tentar usar uma estratégia que está apenas parcialmente desenvolvida pode ser mais frustrante e gerar mais ansiedade do que não tentar usá-la de forma alguma. Seria como ensinar uma técnica de lidar com emergências subaquáticas a mergulhadores uma única vez e depois esperar que eles usem a habilidade com sucesso em uma emergência real debaixo d'água. Em vez disso, os mergulhadores devem praticar o procedimento de emergência em terra repetidamente antes de usá-lo debaixo d'água. Portanto, por enquanto, os exercícios de respiração devem ser feitos apenas em um ambiente tranquilo e confortável. Uma vez que você tenha adquirido habilidade no exercício básico de respiração calma, então aplicaremos isso como uma habilidade de enfrentamento para a ansiedade.
+
+Após cada prática, registre seus níveis de concentração na respiração e na contagem, bem como o sucesso com o qual você consegue usar o músculo do diafragma, utilizando o formulário específico."""],
 
 }
