@@ -198,5 +198,38 @@ Por enquanto, não utilize esse novo tipo de respiração calma nos momentos de 
 
 Após cada prática, registre seus níveis de concentração na respiração e na contagem, bem como o sucesso com o qual você consegue usar o músculo do diafragma, utilizando o formulário específico.""",
 ['Formulário 6.1: Seu Registro de Habilidades de Respiração', 'https://docs.google.com/document/d/1Of-VP9f6qSVZmpyot9mbyzowbBEmLPJvi7iweFKMDZg/edit?usp=share_link']],
+    'A relação entre pensamento e emoção': ["""Pensamentos Influenciam Emoções
+
+Imagine um amigo se aproximando de você. Em vez de sorrir e dizer "olá", ela passa direto por você sem nem mesmo lhe cumprimentar. O que você pode pensar sobre isso? Se você pensar que sua amiga está com raiva ou chateada com você, você pode sentir ansiedade ou tristeza. Se você pensar que ela está estressada com alguma outra coisa e nem sequer percebeu você, então você pode sentir muito pouca emoção ou, talvez, até sentir compaixão por ela. Claro, isso é relevante para o transtorno do pânico, pois a maneira como você pensa sobre os sintomas físicos influenciará como você se sente em relação a eles.
+
+Emoções Influenciam Pensamentos
+
+Emoções negativas causam mais pensamentos negativos: Sentir medo aumenta a probabilidade de ter pensamentos negativos. Isso ocorre porque o principal efeito do sistema de luta ou fuga é nos alertar para a possibilidade de perigo. No entanto, às vezes uma ameaça óbvia não pode ser encontrada. É difícil para nós aceitar não ter uma explicação para sentimentos de pânico ou para experimentar qualquer emoção forte. Quando as pessoas não conseguem encontrar uma explicação óbvia para seus sentimentos, geralmente inventam uma, e isso frequentemente envolve direcionar sua busca para si mesmas. Em outras palavras, "Se nada lá fora está me fazendo sentir medo, então deve haver algo errado comigo." Nesse caso, o cérebro inventa uma explicação, como "Eu devo estar morrendo, perdendo o controle ou enlouquecendo." O objetivo do sistema de luta ou fuga é proteger o organismo, não prejudicá-lo - é o nosso mecanismo de sobrevivência. O fato de a ansiedade produzir mais pensamentos negativos ajuda a explicar por que, quando estão calmas, muitas pessoas reconhecem que seus ataques de pânico não as prejudicarão; no entanto, quando estão no meio de um ataque de pânico, essas mesmas pessoas estão convencidas de que seus ataques de pânico são prejudiciais.
+
+Ciclo de Emoções e Pensamentos
+
+Neste ponto, você pode pensar: "Não me digo nada quando estou em pânico; isso simplesmente acontece do nada." Há uma dimensão de consciência em nosso pensamento. Ou seja, às vezes estamos totalmente conscientes de nossos pensamentos, mas outras vezes, nossos pensamentos são tão automáticos que nem sabemos o que estamos pensando. Como exemplo do último, pense em dirigir um carro. Há muitos pensamentos que passam quando você sai de um local de estacionamento (por exemplo, colocar o pé no acelerador, colocar o pé no freio, virar o volante desta maneira, olhar por cima do ombro, sair lentamente, e assim por diante). No entanto, provavelmente você não está ciente desses pensamentos. Os pensamentos tendem a se tornar automáticos quanto mais frequentemente pensamos neles. Portanto, por exemplo, se você acredita há muito tempo que ataques de pânico causam doenças cardíacas, um leve espasmo no peito pode desencadear um ataque de pânico sem que você perceba que, ao notar o espasmo, você estava pensando que poderia estar tendo um ataque cardíaco - o pensamento se torna automático. No entanto, com uma observação cuidadosa de si mesmo, geralmente podemos aprender a reconhecer nossos pensamentos automáticos. Para cada situação de agorafobia, pergunte a si mesmo: "O que acontecerá se eu entrar e permanecer nessa situação?" Para cada ataque de pânico, pergunte a si mesmo: "O que eu achei que poderia acontecer?"
+Agora é hora de ser o mais detalhado possível. Ou seja, em vez de dizer "Pensei que poderia entrar em pânico", liste as diferentes possibilidades negativas que passaram por sua mente, mesmo que tenha sido apenas por um segundo, como "Se eu entrar em pânico, posso morrer de um ataque cardíaco." Se suas descrições de seus pensamentos forem gerais, como "Me senti horrível" ou "Vou me sentir ansioso", pergunte a si mesmo: "Por que foi tão terrível? O que eu achava que poderia acontecer?" Ou, se o seu pensamento foi: "Posso perder o controle", pergunte a si mesmo: "O que poderia ter acontecido se eu perdesse o controle?" Em outras palavras, seja mais específico do que simplesmente afirmar que você tem medo de entrar em pânico, ou medo de ficar ansioso em uma situação, ou que isso fará você se sentir mal ou horrível. O pânico e a ansiedade são estados emocionais da mesma forma que a raiva, a excitação e a tristeza são estados emocionais. Eles não são inerentemente perigosos. Quando você diz que tem medo de ter um ataque de pânico, significa que o pânico sinaliza algo de ruim acontecendo com você, como lesões físicas (ataque cardíaco, derrame, desmaio), enlouquecendo, perdendo o controle, morrendo ou sendo excluído e envergonhado. Estes são os pensamentos negativos - as chamadas catástrofes - que contribuem para o ciclo de pânico.
+Da mesma forma, se seu pensamento inicial é que você tem medo de ficar preso ou que será muito difícil sair de uma situação, pense mais nos motivos pelos quais isso o preocupa. Lembre-se de que a necessidade de escapar de uma situação é relevante apenas na medida em que você acha que algo ruim acontecerá se você for forçado a permanecer na situação. Pode ajudar a pensar em si mesmo como estando literalmente preso em sua situação temida (por exemplo, imagine-se preso em um elevador ou em uma viagem de avião muito longa) e pergunte a si mesmo o que o motiva a querer sair. Por exemplo, o medo de ficar preso pode se basear em pensamentos de perder o controle gritando, gritando e machucando pessoas para sair.
+Aqui está um exemplo de uma discussão entre um terapeuta e um cliente com transtorno do pânico. O terapeuta está ajudando o cliente a identificar os pensamentos negativos com o máximo de detalhes possível.
+terapeuta: O que você quer dizer quando diz que a sensação de coração acelerado é horrível? O que há de horrível nisso?
+Carlos: Bem, me faz sentir muito assustado.
+Terapeuta: Do que você tem medo?
+Carlos: Isso me faz preocupar com algo saindo errado fisicamente.
+Terapeuta: O que você acha que poderia acontecer?
+Carlos: Talvez meu coração continue batendo mais e mais rápido, e eventualmente, ele vai parar.
+Terapeuta: E então?
+Carlos: Bem, então eu vou morrer.
+Terapeuta: Ok, então agora identificamos precisamente o que você acha que poderia acontecer. E quanto aos seus medos de perder totalmente o controle? O que você quer dizer com isso?
+Carlos: É difícil de descrever. Acho que na verdade não sei o que isso significa. Eu só me sinto fora de controle.
+Terapeuta: O que você acha que poderia acontecer se você estivesse totalmente fora de controle?
+Carlos: Que eu não poderia parar o jeito que estava me sentindo.
+Terapeuta: E o que aconteceria se você não conseguisse parar esse sentimento?
+Carlos: Bem, o sentimento ficaria tão intenso que eu não seria capaz de funcionar mais. Eu seria apenas um desastre.
+Terapeuta: E então?
+Carlos: Isso seria o fim da minha vida. Eu passaria o resto da minha vida sem fazer nada.
+
+Use este tipo de abordagem para descobrir seus pensamentos para os ataques de pânico que tiver registrado.""",
+['Formulário de pensamentos negativos', 'https://docs.google.com/document/d/15aXNmpv9yF0aT5dbwbyze02Z6ksikrbGZ6jbyBkR3hE/edit?usp=sharing']],
 
 }
